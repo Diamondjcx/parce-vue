@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"_css_loader"}],"generated":{"css":".fl {\r\n\tfloat: left;\r\n}\r\n\r\n.fr {\r\n\tfloat: right;\r\n}\r\n","js":"\n        var reloadCSS = require('_css_loader');\n        module.hot.dispose(reloadCSS);\n        module.hot.accept(reloadCSS);\n      "},"hash":"b0beb8740019706b5e96bbe413abe11b"}
