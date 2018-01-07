@@ -1,5 +1,5 @@
 
-# BYD mobile
+# parcel -vue
 
 ``` bash
 # install dependencies
